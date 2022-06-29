@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 ## edit below variables as per your requirements -
 REPO_NAME = "FSDS-NER-Project"
-AUTHOR_USER_NAME = "Arju-cmd"
+AUTHOR_USER_NAME = "c17hawke"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 

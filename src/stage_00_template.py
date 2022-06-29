@@ -3,7 +3,7 @@ import os
 import shutil
 from tqdm import tqdm
 import logging
-from src.NER_utils import read_yaml, create_directories
+from src.NER_utils import read_yaml
 import random
 
 

@@ -1,2 +1,1 @@
-from src.NER_utils.common import*
-
+from src.NER_utils.common import *

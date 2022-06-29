@@ -16,9 +16,8 @@ done
 
 echo [$(date)]: "install requirements"
 pip install -r requirements.txt -q
-
 echo [$(date)]: "install pytorch dependency"
-pip3 install torch --extra-index-url https://download.pytorch.org/whl/cu113 -q
+pip install torch --extra-index-url https://download.pytorch.org/whl/cu113 -q
 echo [$(date)]: "END"
 
 # to remove everything -
